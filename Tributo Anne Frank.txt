@@ -1,0 +1,145 @@
+** start of undefined **
+
+<!DOCTYPE html> 
+<html lang="pt-BR"> 
+<head> 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anne Frank</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+   <main id="main">
+     <header>
+        <h1 id="title"><u>Tributo a Anne Frank</u></h1>
+     </header>
+     <div class="fullscreen-image"></div>
+
+     <!-- Divisão de imagem -->
+     <div id="img-div">
+        <img id="image" src="https://s.ebiografia.com/img/an/ne/anne_frank_e_seu_dia_rio.jpg?auto_optimize=low&width=655" 
+             alt="Anne Frank segurando seu diário" 
+             width="655">
+        <figcaption id="img-caption"><i>Anne Frank com seu diário.</i></figcaption>
+     </div>
+
+     <!-- Informações sobre o tributo -->
+     <section id="tribute-info">
+        <p class="centralizado"><strong><u>Biografia de Anne Frank</u></strong></p>
+<p><strong>Anne Frank (1929-1945) </strong>foi uma jovem judia vítima do nazismo. Morreu no campo de concentração de Bergen-Belsen, na Alemanha, deixando escrito um diário que foi publicado por seu pai, um sobrevivente do campo de concentração de Auschwitz (Polônia), intitulado "O Diário de Anne Frank".</p>
+
+        <p><strong>12 de junho de 1929.</strong> - Anne Marie Frank nasceu em Frankfurt, Alemanha, Filha dos judeus Otto Frank e Edith Holländer Frank.</p>
+
+ <p><strong>Em 1933.</strong> -Anne Saiu da Alemanha com a família para fugir das leis de Hitler contra os judeus. A família emigrou para a Holanda, onde seu pai se tornou diretor administrativo de uma empresa que fabricava produtos para fazer geleia. Anne e a irmã Margot estudaram na escola Montessori e depois foram para o Liceu Israelita.</p>
+
+ <p><strong>Em 1940.</strong> - Durante a Segunda Guerra Mundial, em maio de 1940, a Holanda foi invadida pelos nazistas, época em que começaram as restrições contra os judeus com uma série de decretos antissemitas: deviam usar uma estrela amarela de identificação e eram submetidos a diversas proibições, como andar nos bondes, frequentar teatros, cinemas ou qualquer outra forma de diversão etc.</p>
+
+ <p><strong>12 de junho de 1942.</strong> - Quando completou 13 anos de idade, Anne ganhou um diário e nesse mesmo dia começou a escrever o seu cotidiano.</p>
+
+ 
+   <div id="img-div">
+        <img id="image" src="https://scontent.flis12-1.fna.fbcdn.net/v/t1.6435-9/200524462_4009010685800758_7943107513317928810_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_ohc=8hTWnPgJYGUQ7kNvgF43eOS&_nc_zt=23&_nc_ht=scontent.flis12-1.fna&_nc_gid=AeaZM_gVXy14Vfv41oCleen&oh=00_AYCfsGG-4azS76BiQk_ueFGY4P973e6AbUO4kv9ZXFzwtA&oe=6765B682" alt="Otto Frank, pai de Anne Frank, em frente à entrada do Anexo Secreto escondido por uma estante." 
+             width="655">
+        <figcaption id="img-caption"><i>Otto Frank, pai de Anne Frank, em frente à entrada do Anexo Secreto escondido por uma estante.</i></figcaption>
+     </div>
+     <h2><u>Esconderijo</u></h2>
+
+ <p><strong>09 de julho de 1942. </strong>- Para não ser presa, a família de Anne Frank se mudou para um esconderijo, localizado na Prinsengrecht, 263, com mais quatro judeus, nos fundos da fábrica onde Otto Frank trabalhava. A família permaneceu ali até <strong>04 de agosto de 1944.</strong></p>
+
+ <p>Anne Frank relatou em seu diário os conflitos de uma adolescente e a tensão de se viver escondida sobrevivendo com a comida armazenada, a ajuda recebida de amigos, o sofrimento da guerra, os bombardeios que aterrorizavam a família e a possibilidade de o “anexo secreto” ser descoberto e serem mortos a tiros.<p>
+
+   <p><strong>04 de agosto de 1944.</strong> - O esconderijo onde estava a família de Anne Frank foi invadido pela Guestapo e as oito pessoas foram levadas para uma prisão em Amsterdã e depois foram transferidos para Westerbork, um campo de triagem.</p>
+
+   <p><strong>03 de setembro de 1944.</strong> - foram deportados e chegaram a Auschwitz (Polônia).</p>
+
+   <p><strong>6 de janeiro de 1945.</strong> -Edith Frank morreu em Auschwitz-Birkenau de fome e exaustão.</p>
+
+   <p><strong>Em 1945.</strong>- Anne e sua irmã foram levadas para Bergen-Belsen, campo de concentração perto de Hannover (Alemanha). A epidemia de tifo que assolou o local no inverno e resultou em terríveis condições de higiene matou milhares de prisioneiros, inclusive Margot e, alguns dias depois, Anne.</p>
+
+   <p><strong>12 de março de 1945(data provável).</strong> - Anne Frank faleceu em Bergen-Belsen, Alemanha, provavelmente em 12 de março de 1945, com apenas 15 anos de idade.</p>
+
+   <p>Diário de Anne Frank
+O pai de Anne, Otto Frank, foi o único dos oito amigos a sobreviver aos campos de concentração. Foi libertado pelas tropas russas. Chegou a Amsterdã em <strong>3 de junho de 1945, onde ficou até 1953.</strong>
+
+<p>O diário de Anne Frank foi encontrado por Miep Gies e Bep Voskuijl, as duas secretárias que trabalhavam no prédio que serviu de esconderijo, e entregue a Otto Frank.</p>
+
+<p>O Diário de Anne Frank, escrito entre <strong>12 de junho de 1942 e 1 de agosto de 1944</strong>, no qual ela se dirige a sua querida Kitty, uma amiga imaginária, para contar o cotidiano de sua vida e o período de reclusão no esconderijo, constituiu um comovente testemunho desse tempo de terror e perseguição.</p>
+
+<p>Depois de muito esforço, os escritos de Anne Frank foram publicados por seu pai, em 1947, com o título <strong>“O Diário de Anne Frank”.</strong></p>
+
+<p>O livro foi traduzido em mais de 30 idiomas. O filme biográfico <strong>“O Diário de Anne Frank </strong>foi lançado em 1959 e recebeu 3 premiações do Oscar. O local do esconderijo de Anne Frank, em Amsterdã, é hoje um museu, “Casa de Anne Frank”, inaugurado em <strong>3 de maio de 1960.</strong></p>
+
+        
+     </section>
+     <figure>
+
+     </figure>
+
+<footer>
+        <a id="tribute-link" href="https://www.annefrank.org/en/" target="_blank">Saiba mais sobre Anne Frank</a>
+
+        <p>Tributo feito por Paola Bruzon Barreto (Iniciante em Programação) 20/11/2024.</p>
+     </footer>
+
+     
+   </main>
+  </body>
+  </html> 
+
+** end of undefined **
+
+** start of undefined **
+
+h1{
+  text-align: center;
+  font-family: Tahoma;
+  Color:#007777
+}
+
+h2{
+  text-align:center;
+  Font-size:50px;
+  Color:#007777;
+ font-family: Tahoma;
+  
+}
+
+figcaption{
+  text-align:center;
+  color: black;
+  font-family: Tahoma;
+  
+}
+
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+.centralizado {
+  text-align: center;
+  font-size: 25px;
+  font-family: Tahoma;
+  color: #007777;
+  
+}
+footer {
+  text-align: center;
+  font-family: Tahoma;
+}
+.container{
+  display: flex;
+}
+body{
+  background-color:pink;
+}
+p{
+   font-family: Tahoma;
+}
+a:link{
+color:#007777;
+}
+
+** end of undefined **
+
